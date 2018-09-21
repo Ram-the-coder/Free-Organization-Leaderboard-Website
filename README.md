@@ -12,6 +12,7 @@ This website works with PHP and MySQL only. JavaScript is also needed to show wi
   > Only registered users can view them. 
   > Currently there are no conditions set on registering and anyone can register and access all the pages that a standard user can access.
 - A description of the users can be viewed by clicking on their name in the leaderboard page.
+- The database and the tables will be created automatically on the first user registration, provided the connection with that database has been established properly. Check the connection_info.php if you face any problems with connection, connection authentication errors, etc.
 
 - **Check the screenshots to get an idea on how the website looks**
 
@@ -28,3 +29,4 @@ This website works with PHP and MySQL only. JavaScript is also needed to show wi
 - utask.php - This is a page that standard users can view. Here the tasks uploaded by the admins are displayed.
 
 *Website created by: Ramvardhan, Vashanth*
+*We worked very well as a team and both of us did at least something with everything*
