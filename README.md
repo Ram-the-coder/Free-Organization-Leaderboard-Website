@@ -27,4 +27,4 @@ This website works with PHP and MySQL only. JavaScript is also needed to show wi
 - toggle.php - This contains php code to make a standard user to admin.
 - utask.php - This is a page that standard users can view. Here the tasks uploaded by the admins are displayed.
 
-*Website create by: Ramvardhan, Vashanth*
+*Website created by: Ramvardhan, Vashanth*
