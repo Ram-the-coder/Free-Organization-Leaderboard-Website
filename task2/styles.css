@@ -1,0 +1,34 @@
+html,body{
+	height: 100%;
+}
+.logo_img{
+ height: 100%;
+ }
+.navbar-right{
+	float: right;
+}
+.background{
+		background: linear-gradient(#330000 30%,#ff3333);
+		color: white;
+}
+.container{
+	padding-top: 30px;
+	/*font-weight: bold;*/
+	background-color: white ;
+}
+table{
+	background: white;
+}
+.login{
+	width: 800px;
+}
+.black_font{
+	color: black;
+}
+.white_font{
+	color: white;
+}
+
+
+
+
